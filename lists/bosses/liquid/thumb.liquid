@@ -1,0 +1,20 @@
+{% assign props = __item__.props %}
+
+{% if props.thumb %}
+	{% assign thumb = props.thumb %}
+{% else %}
+	{% assign thumb = props.img %}
+{% endif %}
+
+{% if __item__.name == 'The Pawns' %}
+	{% assign scale = 0.75 %}
+{% else %}
+	{% assign scale = 0.5 %}
+{% endif %}
+
+{
+	"src": {{thumb.src}},
+	"width": {{thumb.width | times: scale}},
+	"height": {{thumb.height | times: scale}},
+	"pixelated": false
+}
