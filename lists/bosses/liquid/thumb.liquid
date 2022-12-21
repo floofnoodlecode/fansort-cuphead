@@ -1,4 +1,4 @@
-{% assign props = __item__.props %}
+{% assign props = item.props %}
 
 {% if props.thumb %}
 	{% assign thumb = props.thumb %}
@@ -6,7 +6,7 @@
 	{% assign thumb = props.img %}
 {% endif %}
 
-{% if __item__.name == 'The Pawns' %}
+{% if item.name == 'The Pawns' %}
 	{% assign scale = 0.75 %}
 {% else %}
 	{% assign scale = 0.5 %}
