@@ -12,9 +12,4 @@
 	{% assign scale = 0.5 %}
 {% endif %}
 
-{
-	"src": {{thumb.src}},
-	"width": {{thumb.width | times: scale}},
-	"height": {{thumb.height | times: scale}},
-	"pixelated": false
-}
+<image src="{{thumb.src}}" width="{{thumb.width | times: scale}}" height="{{thumb.height | times: scale}}"/>
