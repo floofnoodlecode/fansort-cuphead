@@ -8,457 +8,453 @@
 	"items": [
 		{
 			"name": "The Root Pack",
+			"attrs": {
+				"Area": "Inkwell Isle One"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/The_Root_Pack",
 				"img": {
 					"src": "assets/the-root-pack.png",
 					"width": 512,
 					"height": 271
-				},
-				"fields": {
-					"Area": "Inkwell Isle One"
 				}
 			}
 		},
 		{
 			"name": "Goopy Le Grande",
+			"attrs": {
+				"Area": "Inkwell Isle One"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Goopy_Le_Grande",
 				"img": {
 					"src": "assets/goopy-le-grande.png",
 					"width": 512,
 					"height": 254
-				},
-				"fields": {
-					"Area": "Inkwell Isle One"
 				}
 			}
 		},
 		{
 			"name": "Hilda Berg",
+			"attrs": {
+				"Area": "Inkwell Isle One"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Hilda_Berg",
 				"img": {
 					"src": "assets/hilda-berg.png",
 					"width": 512,
 					"height": 287
-				},
-				"fields": {
-					"Area": "Inkwell Isle One"
 				}
 			}
 		},
 		{
 			"name": "Cagney Carnation",
+			"attrs": {
+				"Area": "Inkwell Isle One"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Cagney_Carnation",
 				"img": {
 					"src": "assets/cagney-carnation.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle One"
 				}
 			}
 		},
 		{
 			"name": "Ribby and Croaks",
+			"attrs": {
+				"Area": "Inkwell Isle One"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Ribby_and_Croaks",
 				"img": {
 					"src": "assets/ribby-and-croaks.png",
 					"width": 512,
 					"height": 258
-				},
-				"fields": {
-					"Area": "Inkwell Isle One"
 				}
 			}
 		},
 		{
 			"name": "Baroness Von Bon Bon",
+			"attrs": {
+				"Area": "Inkwell Isle Two"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Baroness_Von_Bon_Bon",
 				"img": {
 					"src": "assets/baroness-von-bon-bon.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Two"
 				}
 			}
 		},
 		{
 			"name": "Beppi the Clown",
+			"attrs": {
+				"Area": "Inkwell Isle Two"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Beppi_the_Clown",
 				"img": {
 					"src": "assets/beppi-the-clown.png",
 					"width": 512,
 					"height": 290
-				},
-				"fields": {
-					"Area": "Inkwell Isle Two"
 				}
 			}
 		},
 		{
 			"name": "Djimmi the Great",
+			"attrs": {
+				"Area": "Inkwell Isle Two"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Djimmi_the_Great",
 				"img": {
 					"src": "assets/djimmi-the-great.png",
 					"width": 512,
 					"height": 279
-				},
-				"fields": {
-					"Area": "Inkwell Isle Two"
 				}
 			}
 		},
 		{
 			"name": "Grim Matchstick",
+			"attrs": {
+				"Area": "Inkwell Isle Two"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Grim_Matchstick",
 				"img": {
 					"src": "assets/grim-matchstick.png",
 					"width": 512,
 					"height": 271
-				},
-				"fields": {
-					"Area": "Inkwell Isle Two"
 				}
 			}
 		},
 		{
 			"name": "Wally Warbles",
+			"attrs": {
+				"Area": "Inkwell Isle Two"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Wally_Warbles",
 				"img": {
 					"src": "assets/wally-warbles.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Two"
 				}
 			}
 		},
 		{
 			"name": "Rumor Honeybottoms",
+			"attrs": {
+				"Area": "Inkwell Isle Three"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Rumor_Honeybottoms",
 				"img": {
 					"src": "assets/rumor-honeybottoms.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Three"
 				}
 			}
 		},
 		{
 			"name": "Captain Brineybeard",
+			"attrs": {
+				"Area": "Inkwell Isle Three"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Captain_Brineybeard",
 				"img": {
 					"src": "assets/captain-brineybeard.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Three"
 				}
 			}
 		},
 		{
 			"name": "Sally Stageplay",
+			"attrs": {
+				"Area": "Inkwell Isle Three"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Sally_Stageplay",
 				"img": {
 					"src": "assets/sally-stageplay.png",
 					"width": 512,
 					"height": 267
-				},
-				"fields": {
-					"Area": "Inkwell Isle Three"
 				}
 			}
 		},
 		{
 			"name": "Werner Werman",
+			"attrs": {
+				"Area": "Inkwell Isle Three"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Werner_Werman",
 				"img": {
 					"src": "assets/werner-werman.png",
 					"width": 512,
 					"height": 340
-				},
-				"fields": {
-					"Area": "Inkwell Isle Three"
 				}
 			}
 		},
 		{
 			"name": "Dr. Kahl's Robot",
+			"attrs": {
+				"Area": "Inkwell Isle Three"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Dr._Kahl%27s_Robot",
 				"img": {
 					"src": "assets/dr-kahl-s-robot.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Three"
 				}
 			}
 		},
 		{
 			"name": "Cala Maria",
+			"attrs": {
+				"Area": "Inkwell Isle Three"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Cala_Maria",
 				"img": {
 					"src": "assets/cala-maria.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Three"
 				}
 			}
 		},
 		{
 			"name": "Phantom Express",
+			"attrs": {
+				"Area": "Inkwell Isle Three"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Phantom_Express",
 				"img": {
 					"src": "assets/phantom-express.png",
 					"width": 512,
 					"height": 287
-				},
-				"fields": {
-					"Area": "Inkwell Isle Three"
 				}
 			}
 		},
 		{
 			"name": "King Dice",
+			"attrs": {
+				"Area": "Inkwell Hell"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/King_Dice",
 				"img": {
 					"src": "assets/king-dice.png",
 					"width": 512,
 					"height": 284
-				},
-				"fields": {
-					"Area": "Inkwell Hell"
 				}
 			}
 		},
 		{
 			"name": "The Devil",
+			"attrs": {
+				"Area": "Inkwell Hell"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/The_Devil",
 				"img": {
 					"src": "assets/the-devil.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Hell"
 				}
 			}
 		},
 		{
 			"name": "Glumstone The Giant",
+			"attrs": {
+				"Area": "Inkwell Isle Four",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Glumstone_The_Giant",
 				"img": {
 					"src": "assets/glumstone-the-giant.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Four",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "Moonshine Mob",
+			"attrs": {
+				"Area": "Inkwell Isle Four",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Moonshine_Mob",
 				"img": {
 					"src": "assets/moonshine-mob.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Four",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "The Howling Aces",
+			"attrs": {
+				"Area": "Inkwell Isle Four",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/The_Howling_Aces",
 				"img": {
 					"src": "assets/the-howling-aces.png",
 					"width": 512,
 					"height": 293
-				},
-				"fields": {
-					"Area": "Inkwell Isle Four",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "Mortimer Freeze",
+			"attrs": {
+				"Area": "Inkwell Isle Four",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Mortimer_Freeze",
 				"img": {
 					"src": "assets/mortimer-freeze.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Four",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "Esther Winchester",
+			"attrs": {
+				"Area": "Inkwell Isle Four",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Esther_Winchester",
 				"img": {
 					"src": "assets/esther-winchester.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "Inkwell Isle Four",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "Chef Saltbaker",
+			"attrs": {
+				"Area": "Inkwell Isle Four",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Chef_Saltbaker",
 				"img": {
 					"src": "assets/chef-saltbaker.png",
 					"width": 512,
 					"height": 289
-				},
-				"fields": {
-					"Area": "Inkwell Isle Four",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "Angel and Demon",
+			"attrs": {
+				"Area": "Inkwell Isle Four",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/Angel_and_Demon",
 				"img": {
 					"src": "assets/angel-and-demon.png",
 					"width": 512,
 					"height": 289
-				},
-				"fields": {
-					"Area": "Inkwell Isle Four",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "The Pawns",
+			"attrs": {
+				"Area": "The King's Leap",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/The_Pawns",
 				"img": {
 					"src": "assets/the-pawns.png",
 					"width": 512,
 					"height": 60
-				},
-				"fields": {
-					"Area": "The King's Leap",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "The Knight",
+			"attrs": {
+				"Area": "The King's Leap",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/The_Knight",
 				"img": {
 					"src": "assets/the-knight.png",
 					"width": 512,
 					"height": 288
-				},
-				"fields": {
-					"Area": "The King's Leap",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "The Bishop",
+			"attrs": {
+				"Area": "The King's Leap",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/The_Bishop",
 				"img": {
 					"src": "assets/the-bishop.png",
 					"width": 464,
 					"height": 416
-				},
-				"fields": {
-					"Area": "The King's Leap",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "The Rook",
+			"attrs": {
+				"Area": "The King's Leap",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/The_Rook",
 				"img": {
 					"src": "assets/the-rook.png",
 					"width": 326,
 					"height": 512
-				},
-				"fields": {
-					"Area": "The King's Leap",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		},
 		{
 			"name": "The Queen",
+			"attrs": {
+				"Area": "The King's Leap",
+				"DLC": "The Delicious Last Course"
+			},
 			"props": {
 				"url": "https://cuphead.fandom.com/wiki/The_Queen",
 				"img": {
 					"src": "assets/the-queen.png",
 					"width": 512,
 					"height": 501
-				},
-				"fields": {
-					"Area": "The King's Leap",
-					"DLC": "The Delicious Last Course"
 				}
 			}
 		}
 	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/DLC"
-		},
-		{
-			"pointer": "/props/fields/Area",
+	"attrConfigs": {
+		"Area": {
 			"order": [
 				"Inkwell Isle One",
 				"Inkwell Isle Two",
@@ -468,5 +464,5 @@
 				"The King's Leap"
 			]
 		}
-	]
+	}
 }
