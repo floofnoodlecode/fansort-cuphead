@@ -453,7 +453,7 @@
 			}
 		}
 	],
-	"attrConfigs": {
+	"attrMeta": {
 		"Area": {
 			"order": [
 				"Inkwell Isle One",
