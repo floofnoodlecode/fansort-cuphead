@@ -453,16 +453,14 @@
 			}
 		}
 	],
-	"attrMeta": {
-		"Area": {
-			"order": [
-				"Inkwell Isle One",
-				"Inkwell Isle Two",
-				"Inkwell Isle Three",
-				"Inkwell Hell",
-				"Inkwell Isle Four",
-				"The King's Leap"
-			]
-		}
+	"attrValuesOrder": {
+		"Area": [
+			"Inkwell Isle One",
+			"Inkwell Isle Two",
+			"Inkwell Isle Three",
+			"Inkwell Hell",
+			"Inkwell Isle Four",
+			"The King's Leap"
+		]
 	}
 }
